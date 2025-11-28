@@ -34,4 +34,5 @@ console.log("=".repeat(35));
 console.log(`Monto de la cuenta: $${montoCuenta}`);
 console.log(`Propina (${porcentajePropina}%): $${montoPropina}`);
 console.log(`Total a pagar: $${totalPagar}`);
+
 console.log("=".repeat(35) + "\n");
